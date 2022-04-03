@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:/C:/Users/ahtzi/Desktop/Practica5_a181014/ejemplo1.xsl"?>
+<peliculas>
+  <favorita>
+    <nombre>Resident Evil: El huésped maldito</nombre>
+    <genero>Terror/Acción</genero>
+  </favorita>
+  <favorita>
+    <nombre>El quinto elemento</nombre>
+    <genero>Acción/Ciencia ficción</genero>
+  </favorita>
+  <favorita>
+    <nombre>Avatar</nombre>
+    <genero>Ciencia ficción/Acción</genero>
+  </favorita>
+  <favorita>
+    <nombre>Estación zombie</nombre>
+    <genero>Terror/Acción</genero>
+  </favorita>
+</peliculas>
